@@ -1,0 +1,160 @@
+
+jackpot.png
+size: 1216,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 597, 128
+  size: 233, 206
+  orig: 234, 206
+  offset: 1, 0
+  index: -1
+C
+  rotate: true
+  xy: 2, 56
+  size: 140, 224
+  orig: 140, 224
+  offset: 0, 0
+  index: -1
+COIN_STACK
+  rotate: false
+  xy: 2, 357
+  size: 383, 256
+  orig: 383, 257
+  offset: 0, 0
+  index: -1
+J
+  rotate: true
+  xy: 673, 336
+  size: 277, 182
+  orig: 277, 183
+  offset: 0, 1
+  index: -1
+K
+  rotate: true
+  xy: 703, 29
+  size: 87, 231
+  orig: 88, 231
+  offset: 1, 0
+  index: -1
+O
+  rotate: false
+  xy: 857, 336
+  size: 199, 210
+  orig: 199, 210
+  offset: 0, 0
+  index: -1
+P
+  rotate: true
+  xy: 471, 13
+  size: 113, 230
+  orig: 113, 230
+  offset: 0, 0
+  index: -1
+T
+  rotate: false
+  xy: 387, 357
+  size: 284, 190
+  orig: 284, 190
+  offset: 0, 0
+  index: -1
+TOAST_FRAME
+  rotate: false
+  xy: 2, 198
+  size: 593, 157
+  orig: 613, 157
+  offset: 0, 0
+  index: -1
+a1
+  rotate: false
+  xy: 1014, 26
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+c1
+  rotate: true
+  xy: 228, 2
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+flare1
+  rotate: false
+  xy: 387, 562
+  size: 150, 51
+  orig: 150, 51
+  offset: 0, 0
+  index: -1
+flare2
+  rotate: false
+  xy: 2, 6
+  size: 49, 48
+  orig: 51, 51
+  offset: 1, 1
+  index: -1
+j1
+  rotate: true
+  xy: 539, 565
+  size: 48, 86
+  orig: 48, 86
+  offset: 0, 0
+  index: -1
+k1
+  rotate: false
+  xy: 1058, 520
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+light2
+  rotate: true
+  xy: 832, 118
+  size: 216, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: -1
+o1
+  rotate: false
+  xy: 1089, 39
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 1137, 520
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 1058, 313
+  size: 134, 205
+  orig: 134, 205
+  offset: 0, 0
+  index: -1
+star_1
+  rotate: true
+  xy: 1051, 118
+  size: 193, 152
+  orig: 193, 152
+  offset: 0, 0
+  index: -1
+star_3
+  rotate: true
+  xy: 228, 73
+  size: 123, 241
+  orig: 124, 241
+  offset: 1, 0
+  index: -1
+t1
+  rotate: false
+  xy: 936, 28
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
